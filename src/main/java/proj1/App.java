@@ -5,6 +5,6 @@ package proj1;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World and sumeru goof evening!");
+        System.out.println("Hello World and sumeru goof evening hello!");
     }
 }
